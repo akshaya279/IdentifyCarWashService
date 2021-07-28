@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-26T14:14:51Z" name="Default suite" finished-at="2021-07-26T14:15:13Z" duration-ms="21482">
+    <groups>
+    </groups>
+    <test started-at="2021-07-26T14:14:51Z" name="Default test" finished-at="2021-07-26T14:15:13Z" duration-ms="21482">
+      <class name="com.justdial.testcases.FitnessTestCases">
+        <test-method is-config="true" signature="browser()[pri:0, instance:com.justdial.testcases.FitnessTestCases@282cb7c7]" started-at="2021-07-26T14:14:51Z" name="browser" finished-at="2021-07-26T14:14:56Z" duration-ms="4610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="fitness()[pri:1, instance:com.justdial.testcases.FitnessTestCases@282cb7c7]" started-at="2021-07-26T14:14:56Z" name="fitness" finished-at="2021-07-26T14:15:06Z" duration-ms="9649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fitness -->
+        <test-method signature="fitnessMenu()[pri:2, instance:com.justdial.testcases.FitnessTestCases@282cb7c7]" started-at="2021-07-26T14:15:06Z" name="fitnessMenu" finished-at="2021-07-26T14:15:06Z" duration-ms="535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fitnessMenu -->
+        <test-method signature="gym()[pri:3, instance:com.justdial.testcases.FitnessTestCases@282cb7c7]" started-at="2021-07-26T14:15:06Z" name="gym" finished-at="2021-07-26T14:15:08Z" duration-ms="1638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gym -->
+        <test-method signature="gymMenu()[pri:4, instance:com.justdial.testcases.FitnessTestCases@282cb7c7]" started-at="2021-07-26T14:15:08Z" name="gymMenu" finished-at="2021-07-26T14:15:08Z" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gymMenu -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.justdial.testcases.FitnessTestCases@282cb7c7]" started-at="2021-07-26T14:15:08Z" name="terminate" finished-at="2021-07-26T14:15:13Z" duration-ms="4639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- com.justdial.testcases.FitnessTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
